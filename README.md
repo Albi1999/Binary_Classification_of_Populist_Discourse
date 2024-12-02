@@ -31,6 +31,8 @@ The code can be run all together with no issues given the right GPU and Database
 
 For more details on the performance and methodology, please refer to the **Experiments and Results** section in the report.
 
+
+
 ## How to Use the Code
 1. Clone this repository.
 2. Ensure that you have **PyTorch**, **transformers**, and the necessary libraries installed.
@@ -45,3 +47,9 @@ For further details on implementation, refer to the documentation within the scr
 - **Greta Grelli**
 - **Alberto Calabrese**
 - **Giacomo Filippin**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic" height="25"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=plastic" height="25"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white&style=plastic" height="25"/>
+</p>
