@@ -1,4 +1,21 @@
+<p align="center">
+  <img src="logo_unipd.png" alt="" height="70"/>
+</p>
+
 # Binary Classification of Populist Speech
+
+</div>
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25"/>
+  <img alt="Latex" src="https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white&style=for-the-badge" height="25"/>
+  <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=for-the-badge" height="25"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto" height="25"/>
+<p>
 
 ## Project Overview
 This project focuses on the classification of speeches as either populist or non-populist using fine-tuned pre-trained language models. We evaluated four models—BERT-tiny, BERT-large, GPT-2, and RoBERTa-large—on a dataset of 500 manually labeled speeches. The best performing model, **RoBERTa-large**, achieved an accuracy of **88%**, demonstrating its effectiveness for this task.
@@ -47,13 +64,3 @@ For further details on implementation, refer to the documentation within the scr
 - **Greta Grelli**
 - **Alberto Calabrese**
 - **Giacomo Filippin**
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic" height="25"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=plastic" height="25"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white&style=plastic" height="25"/>
-  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="Latex" src="https://img.shields.io/badge/Latex-008080?style=plastic&logo=latex&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=plastic&logo=overleaf&logoColor=white&logoSize=auto" height="25"/>
-</p>
